@@ -3,7 +3,7 @@
 # Compressed File Format
 First byte represents the bits that appended for huffman codes
 
-11(in binary): represents the end of the tree 
+11(in binary): represents the end of the tree
 00: means go left
 01: means go right
 10: means the node is a leaf 
